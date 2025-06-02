@@ -1,0 +1,12 @@
+C:\Users\tiger\Arkai-Desktop\src-tauri\target\debug\deps\libstate-012038c9146d58e2.rmeta: C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\lib.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\ident_hash.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\storage.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\init.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\shim.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\container.rs
+
+C:\Users\tiger\Arkai-Desktop\src-tauri\target\debug\deps\libstate-012038c9146d58e2.rlib: C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\lib.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\ident_hash.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\storage.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\init.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\shim.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\container.rs
+
+C:\Users\tiger\Arkai-Desktop\src-tauri\target\debug\deps\state-012038c9146d58e2.d: C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\lib.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\ident_hash.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\storage.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\init.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\shim.rs C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\container.rs
+
+C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\lib.rs:
+C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\ident_hash.rs:
+C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\storage.rs:
+C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\init.rs:
+C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\shim.rs:
+C:\Users\tiger\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.5.3\src\container.rs:

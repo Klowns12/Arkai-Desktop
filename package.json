@@ -1,0 +1,25 @@
+{
+  "name": "arkai",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "tauri dev",
+    "build": "tauri build",
+    "generate-icons": "node scripts/generate-icons.js"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "tailwindcss": "^2.2.19",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.6.3",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.6",
+    "sharp": "^0.32.6"
+  }
+}

@@ -1,0 +1,1 @@
+C:\Users\tiger\Arkai-Desktop\src-tauri\target\debug\arkai.exe: C:\Users\tiger\Arkai-Desktop\src-tauri\build.rs C:\Users\tiger\Arkai-Desktop\src-tauri\src\main.rs C:\Users\tiger\Arkai-Desktop\src-tauri\target\debug\build\arkai-9a9e2244626ff89b\out\icon.ico C:\Users\tiger\Arkai-Desktop\src-tauri\tauri.conf.json
